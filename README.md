@@ -1,3 +1,4 @@
+
 # UAS Kecerdasan Buatan
 
 Project UAS Kecerdasan Buatan
@@ -6,21 +7,13 @@ Project UAS Kecerdasan Buatan
 Nama : Adrian Abdillah  
 Nim : 201011400428  
 Kelas : 06TPLP008
+## Installation
 
-
-
-
-## Running Tests
-
-To run tests, run the following command
+Install from git
 
 ```bash
-  git clone https://github.com/xadrian57/UAS-Adrian-Abdillah
+git clone https://github.com/xadrian57/UAS-Adrian-Abdillah 
+cd UAS-Adrian-Abdillah
+python uas.py
 ```
-```bash
-  cd UAS-Adrian-Abdillah
-```
-```bash
-  python uas.py
-```
-
+    
