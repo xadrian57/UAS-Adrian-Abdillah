@@ -1,4 +1,3 @@
-
 # UAS Kecerdasan Buatan
 
 Project UAS Kecerdasan Buatan
@@ -17,6 +16,9 @@ To run tests, run the following command
 
 ```bash
   git clone https://github.com/xadrian57/UAS-Adrian-Abdillah
+```
+```bash
+  cd UAS-Adrian-Abdillah
 ```
 ```bash
   python uas.py
