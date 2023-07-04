@@ -16,8 +16,3 @@ git clone https://github.com/xadrian57/UAS-Adrian-Abdillah
 cd UAS-Adrian-Abdillah
 python uas.py
 ```
-    
-## Authors
-
-- [@xadrian57](https://www.github.com/xadrian57)
-
